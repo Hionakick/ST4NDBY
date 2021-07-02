@@ -1,2 +1,2 @@
 # ST4NDBY
-You must not put a space before the ip
+Il ne faut pas mettre d'espace avant l'ip, j'ai fait ça pour des fins d'apprentissage
